@@ -1,1 +1,1 @@
-Projeto fullstack relacionado a uma receita de cupcake
+Projeto front-end relacionado a uma receita de cupcake
